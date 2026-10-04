@@ -25,25 +25,31 @@ The clock shows time in Hours: Minutes: Seconds (HH: MM: SS) format on seven-seg
 
 <img width="1015" height="508" alt="image" src="https://github.com/user-attachments/assets/0e8e6e97-f110-4c09-8ac1-7a338cc440a9" />
 
-## Code:
+## Implementation
+### Code:
 
 > [!NOTE]
 > The source code is in the [main.asm](main.asm) file. Please check it out.
 
-## Circuit Design :
+### Circuit Design :
+
+
+> [!NOTE]
+> The circuit design is in the [ROOT.DSN](ROOT.DSN) file. Open it in **Proteus** to view and simulate the circuit.
+
+
 <brk>
   <img width="1051" height="624" alt="image" src="https://github.com/user-attachments/assets/458be899-5607-4bf6-ae1f-38321c295c2b" />
 </brk>
 
-## Conclusion:
+## Result 
+### Simulation Video
 
+## Conclusion:
 
 In this Mini project, a 24-hour real-time clock was designed and simulated using the 8086 microprocessor, the 8255 PPI chip and a seven-segment display. The project shows how a microprocessor can be connected to simple input devices (push buttons) and output devices (display) using a PPI chip, which is one of the important topics in Microprocessors and Microcontrollers (MPMC). It also shows how multiplexing is used to control many displays using fewer pins, and how a 1 Hz pulse can be used to keep count of time. 
 
  &emsp; &emsp;One limitation of this project is that the accuracy of the clock depends completely on the 1 Hz pulse source used in the simulation. In a real hardware circuit, a crystal oscillator or a dedicated real-time clock chip would be used so that the time stays accurate for a long period, even without extra programming. 
-
- &emsp; &emsp;Overall, this project gives useful hands-on experience in interfacing a microprocessor with real-world input and output devices, which is widely used in many electronic products such as digital clocks, timers, and display boards, making it a useful and practical learning exercise for an MPMC course.
-
 
 ## IEC213 - Microprocessors and Microcontrollers Course Mini project, IIIT Kottayam.
 ## Team Members:
