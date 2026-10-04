@@ -3,7 +3,8 @@ Real Time Clock on the 8086 Microprocessor in assembly. Time is kept in register
 
 # Team Members to Contribute the Project:
 
-|Name | Roll NO|</brk>
+|Name | Roll NO|
+|-----|-------|
 |DHEERAJ MURALI KRISHNAN|2025BEC001|
 |ZAYED NAAZIM ABDULLA|2025BEC003|
 |ANAGH PELLISSERY|2025BEC0002|
