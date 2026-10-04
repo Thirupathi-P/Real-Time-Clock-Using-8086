@@ -1,11 +1,11 @@
 # Real-Time-Clock-Using-8086
 Real Time Clock on the 8086 Microprocessor in assembly. Time is kept in registers/memory and shown on seven-segment displays/LEDs via an 8255 PPI.
 
-## Mini Project 
+## Mini Project :
 The aim of this Mini project is to design and simulate a 24-hour digital clock using the 8086 Microprocessor. 
 
 
-## Tools Used:
+### Tools Used:
 
  &emsp; &emsp;**Keil** – used to write and assemble the 8086 Assembly program.<br>
  &emsp; &emsp;**Proteus** – used to draw the circuit and simulate the complete working of the project.
