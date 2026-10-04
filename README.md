@@ -15,17 +15,17 @@ The clock counts seconds, minutes and hours correctly and resets after 23:59:59,
 
 ## Software Used:
 
-•	**Keil** – used to write and assemble the 8086 Assembly program.
+•	**Keil** – used to write and assemble the 8086 Assembly program. <brk>
 •	**Proteus** – used to draw the circuit and simulate the complete working of the project
 
 
 ## Interface Diagram:
 <img width="1015" height="508" alt="image" src="https://github.com/user-attachments/assets/0e8e6e97-f110-4c09-8ac1-7a338cc440a9" />
 
-## Code :
-<brk>
-   Upload in main.asm file. Please check it out.
-</brk>
+## Code:
+
+> [!NOTE]
+> The source code is in the [main.asm](main.asm) file. Please check it out.
 
 ## Circuit Design :
 <brk>
