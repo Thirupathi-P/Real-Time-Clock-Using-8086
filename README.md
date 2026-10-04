@@ -15,8 +15,8 @@ The clock shows time in Hours: Minutes: Seconds (HH: MM: SS) format on seven-seg
 
 ## Tools Used:
 
- &emsp; &emsp; **Keil** – used to write and assemble the 8086 Assembly program.<br>
- &emsp;&emsp;**Proteus** – used to draw the circuit and simulate the complete working of the project.
+ &emsp; &emsp;**Keil** – used to write and assemble the 8086 Assembly program.<br>
+ &emsp; &emsp;**Proteus** – used to draw the circuit and simulate the complete working of the project.
 
 
 ## Interface Diagram:
