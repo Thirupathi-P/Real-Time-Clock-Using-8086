@@ -4,6 +4,13 @@ Real Time Clock on the 8086 Microprocessor in assembly. Time is kept in register
 ## Mini Project 
 The aim of this Mini project is to design and simulate a 24-hour digital clock using the 8086 Microprocessor. 
 
+
+## Tools Used:
+
+ &emsp; &emsp;**Keil** – used to write and assemble the 8086 Assembly program.<br>
+ &emsp; &emsp;**Proteus** – used to draw the circuit and simulate the complete working of the project.
+
+
 > [!IMPORTANT]
 > To understand the flow of the project, read the **Project Report**.
 
@@ -12,11 +19,6 @@ The aim of this Mini project is to design and simulate a 24-hour digital clock u
 The clock shows time in Hours: Minutes: Seconds (HH: MM: SS) format on seven-segment displays. Since the 8086 cannot connect directly to displays and switches, an 8255 Programmable Peripheral Interface (PPI) chip is used in between. The 8255 reads input from three push buttons (SET, UP, DOWN) and a 1 Hz timing pulse, and sends output to six seven-segment displays. 
 
  &emsp; &emsp;The clock counts seconds, minutes and hours correctly and resets after 23:59:59, and the user can also set the time manually using the push buttons. The project helped in understanding how a microprocessor is interfaced with input and output devices using a PPI chip, which is one of the basic concepts of Microprocessors and Microcontrollers (MPMC).
-
-## Tools Used:
-
- &emsp; &emsp;**Keil** – used to write and assemble the 8086 Assembly program.<br>
- &emsp; &emsp;**Proteus** – used to draw the circuit and simulate the complete working of the project.
 
 
 ## Interface Diagram:
