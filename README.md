@@ -42,8 +42,16 @@ The clock shows time in Hours: Minutes: Seconds (HH: MM: SS) format on seven-seg
   <img width="1051" height="624" alt="image" src="https://github.com/user-attachments/assets/458be899-5607-4bf6-ae1f-38321c295c2b" />
 </brk>
 
-## Result :
+## Result
+
 ### Simulation Video
+
+The complete working simulation of the 8086-based Real-Time Clock is available in this repository.
+
+* 🎥 **Watch / Download Video:** [Simulation or Result Video.mp4](Simulation%20or%20Result%20Video.mp4)[cite: 4]
+* 🛠️ **Simulation File:** [ROOT.DSN](ROOT.DSN)[cite: 4]
+
+> **Note:** You can click the video link above to view or download the Proteus demonstration showing time updates and button controls (SET, UP, DOWN) in action[cite: 4].
 
 ## Conclusion:
 
