@@ -38,9 +38,8 @@ The clock shows time in Hours: Minutes: Seconds (HH: MM: SS) format on seven-seg
 > The circuit design is in the [ROOT.DSN](ROOT.DSN) file. Open it in **Proteus** to view and simulate the circuit.
 
 
-<brk>
-  <img width="1051" height="624" alt="image" src="https://github.com/user-attachments/assets/458be899-5607-4bf6-ae1f-38321c295c2b" />
-</brk>
+<img width="1448" height="813" alt="WhatsApp Image 2026-10-05 at 10 57 58 AM" src="https://github.com/user-attachments/assets/5dbad66d-bdd2-408e-9428-91f138e1a1be" />
+
 
 ## Result
 
